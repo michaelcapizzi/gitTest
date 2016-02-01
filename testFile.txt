@@ -1,1 +1,2 @@
 I am adding a sentence to our file.
+This is the second line. 
