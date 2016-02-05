@@ -1,3 +1,5 @@
 Hi Michael! I’m looking forward to our meeting today. See you soon.
 
 Adding an additional line and trying to add comments to Jira from git but commit command line.
+
+Still not able to change Jira from git terminal command. 
